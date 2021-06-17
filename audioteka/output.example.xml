@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+    <record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+        <leader>-----nim-a22-----2ui4500</leader>
+        <controlfield tag="001">1</controlfield>
+        <controlfield tag="007">s||||||||||||</controlfield>
+        <controlfield tag="008">------n--------xr-nn||-s------|||||cze-d</controlfield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">AUD</subfield>
+            <subfield code="b">cze</subfield>
+            <subfield code="d">BOA001</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Goethe, Johann Wolfgang</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Praha očima cizích básníků MP3</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="b">Supraphon</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">elektronický zdroj</subfield>
+        </datafield>
+        <datafield tag="306" ind1=" " ind2=" ">
+            <subfield code="a">005300</subfield>
+        </datafield>
+        <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">textextextextextextextextextextext</subfield>
+        </datafield>
+        <datafield tag="650" ind1="0" ind2="7">
+            <subfield code="a">poezie</subfield>
+            <subfield code="7">ph117253</subfield>
+            <subfield code="2">czenas</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Apollinaire, Guillaume</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Brentano, Clemens</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Mieželaitis, Eduardas</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Mundt, Theodor</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Claudel, Paul</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Gaczýnski, Konstanty Ildefons</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rilke, Rainer Maria</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Fürnberg, Louis</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Šefner, Vadim</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Pasternak, Boris</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Dolmatovskij, Jevgenij Aronovič</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Neruda, Pablo</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ritsos, Jannis</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hikmet, Nazim</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Vegin, Petr</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Robles, Emmanuel</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Anak, Šamil</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rožděstvenskij, Robert Ivanovič</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ševelevová, Jekatěrina</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kulijev, Kajsyn</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Bek, Josef</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Buchvaldek, Zdeněk</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Voska, Václav</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Adamová, Jaroslava</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Preiss, Viktor</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Preissová, Jana</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Petrovická, Jiřina</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Švorcová, Jiřina</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Vlasáková, Vlasta</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Holý, Jiří</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Brousek, Otakar</subfield>
+            <subfield code="c">st.</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Růžek, Martin</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Šmeral, Vladimír</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Cupák, Eduard</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rázlová, Regina</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Němec, František</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Medřická, Dana</subfield>
+            <subfield code="4">adp</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">http://audioteka.cz/praha-ocima-cizich-basniku,audiokniha.html</subfield>
+            <subfield code="y">Koupit nebo přehrát ukázku na www.audioteka.cz</subfield>
+        </datafield>
+    </record>
+</collection>

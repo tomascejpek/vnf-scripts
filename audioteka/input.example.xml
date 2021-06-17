@@ -1,0 +1,33 @@
+<SHOP>
+    <SHOPITEM>
+        <PRODUCT>Praha očima cizích básníků MP3</PRODUCT>
+        <DESCRIPTION>textextextextextextextextextextext
+        </DESCRIPTION>
+        <URL>http://audioteka.cz/praha-ocima-cizich-basniku,audiokniha.html</URL>
+        <IMGURL>http://audioteka.cz/images/products/supraphon/praha-ocima-cizich-basniku-duze.jpg</IMGURL>
+        <PRICE_VAT>69.00</PRICE_VAT>
+        <VAT>20</VAT>
+        <MANUFACTURER>Supraphon</MANUFACTURER>
+        <CATEGORYTEXT>Audioknihy | Poezie</CATEGORYTEXT>
+        <DELIVERY_DATE>ihned</DELIVERY_DATE>
+        <PARAM>
+            <PARAM_NAME>Autor</PARAM_NAME>
+            <VAL>Johann Wolfgang Goethe;Guillaume Apollinaire;Clemens Brentano;Eduardas Mieželaitis;Theodor Mundt;Paul
+                Claudel;Konstanty Ildefons Gaczýnski;Rainer Maria Rilke;Louis Fürnberg;Vadim Šefner;Boris
+                Pasternak;Jevgenij Aronovič Dolmatovskij;Pablo Neruda;Jannis Ritsos;Nazim Hikmet;Petr Vegin;Emmanuel
+                Robles;Šamil Anak;Robert Ivanovič Rožděstvenskij;Jekatěrina Ševelevová;Kajsyn Kulijev
+            </VAL>
+        </PARAM>
+        <PARAM>
+            <PARAM_NAME>Interpret</PARAM_NAME>
+            <VAL>Josef Bek;Zdeněk Buchvaldek;Václav Voska;Jaroslava Adamová;Viktor Preiss;Jana Preissová;Jiřina
+                Petrovická;Jiřina Švorcová;Vlasta Vlasáková;Jiří Holý;Otakar Brousek st.;Martin Růžek;Vladimír
+                Šmeral;Eduard Cupák;Regina Rázlová;František Němec;Dana Medřická
+            </VAL>
+        </PARAM>
+        <PARAM>
+            <PARAM_NAME>Délka</PARAM_NAME>
+            <VAL>0 hod. 53 min.</VAL>
+        </PARAM>
+    </SHOPITEM>
+</SHOP>
