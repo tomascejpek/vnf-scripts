@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+    <record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+        <leader>-----njm-a22-----2a-4500</leader>
+        <controlfield tag="001">1</controlfield>
+        <controlfield tag="005">201606031300490</controlfield>
+        <controlfield tag="007">s||||||||||||</controlfield>
+        <controlfield tag="008">------n2000---------||--------|||||cze-d</controlfield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Česká televize</subfield>
+            <subfield code="b">cze</subfield>
+            <subfield code="d">BOA001</subfield>
+        </datafield>
+        <datafield tag="041" ind1=" " ind2=" ">
+            <subfield code="a">cze</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Antonín, Pavel</subfield>
+            <subfield code="4">cmp</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Cabriolet</subfield>
+        </datafield>
+        <datafield tag="260" ind1="1" ind2=" ">
+            <subfield code="b">Česká televize</subfield>
+            <subfield code="c">2000</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">1 zvukový záznam</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Z pořadu: Cabriolet</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Nástroje: Zpěv</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="a">Cabriolet / (1) --</subfield>
+            <subfield code="a">Cabriolet / Pavel Antonín, Tobiáš Jirous, Robert Šulman (1. 1) --</subfield>
+            <subfield code="a">Samba / Pavel Antonín, Tereza Sebranová, Robert Šulman (1. 2) --</subfield>
+            <subfield code="a">Cabriolet (základ) / Pavel Antonín, Robert Šulman (1. 3)</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="#">
+            <subfield code="a">Jirous, Tobiáš</subfield>
+            <subfield code="4">lyr</subfield>
+            <subfield code="4">prf</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="#">
+            <subfield code="a">Šulman, Robert</subfield>
+            <subfield code="4">cmp</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2="#">
+            <subfield code="a">Sebranová, Tereza</subfield>
+            <subfield code="4">prf</subfield>
+        </datafield>
+        <datafield tag="710" ind1="1" ind2="#">
+            <subfield code="a">Toby&amp;Hifi Heroes</subfield>
+            <subfield code="e">hudební těleso</subfield>
+        </datafield>
+    </record>
+</collection>

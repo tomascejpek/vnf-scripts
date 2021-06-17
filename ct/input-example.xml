@@ -1,0 +1,142 @@
+<COLLECTION>
+    <NOSIC>
+        <NOSIC_NAZEV></NOSIC_NAZEV>
+        <NOSIC_TYP>M</NOSIC_TYP>
+        <VYRCE>Česká televize</VYRCE>
+        <ZEME>Česká republika</ZEME>
+        <ORIG_CIS_NOSICE></ORIG_CIS_NOSICE>
+        <DATUM_VYDANI>2000</DATUM_VYDANI>
+        <SKLADBA>
+            <UROVEN_SKLADBY>1</UROVEN_SKLADBY>
+            <NAZEV_SKLADBY>Cabriolet</NAZEV_SKLADBY>
+            <ORIGNAZEV_SKLADBY></ORIGNAZEV_SKLADBY>
+            <JAZYK>český</JAZYK>
+            <NAZEV_PORADU>Cabriolet</NAZEV_PORADU>
+            <PODIL>
+                <PRIJMENI></PRIJMENI>
+                <JMENO></JMENO>
+                <INSTITUCE>Toby&amp;Hifi Heroes</INSTITUCE>
+                <TYP_PODILU>Hudební těleso</TYP_PODILU>
+                <NASTROJ></NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+        </SKLADBA>
+        <SKLADBA>
+            <UROVEN_SKLADBY>1.1</UROVEN_SKLADBY>
+            <NAZEV_SKLADBY>Cabriolet</NAZEV_SKLADBY>
+            <ORIGNAZEV_SKLADBY></ORIGNAZEV_SKLADBY>
+            <JAZYK>český</JAZYK>
+            <NAZEV_PORADU>Cabriolet</NAZEV_PORADU>
+            <PODIL>
+                <PRIJMENI>Antonín</PRIJMENI>
+                <JMENO>Pavel</JMENO>
+                <INSTITUCE></INSTITUCE>
+                <TYP_PODILU>Autor hudby</TYP_PODILU>
+                <NASTROJ></NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+            <PODIL>
+                <PRIJMENI>Jirous</PRIJMENI>
+                <JMENO>Tobiáš</JMENO>
+                <INSTITUCE></INSTITUCE>
+                <TYP_PODILU>Autor textu písně</TYP_PODILU>
+                <NASTROJ></NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+            <PODIL>
+                <PRIJMENI>Jirous</PRIJMENI>
+                <JMENO>Tobiáš</JMENO>
+                <INSTITUCE></INSTITUCE>
+                <TYP_PODILU>Účinkující</TYP_PODILU>
+                <NASTROJ>Zpěv</NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+            <PODIL>
+                <PRIJMENI>Šulman</PRIJMENI>
+                <JMENO>Robert</JMENO>
+                <INSTITUCE></INSTITUCE>
+                <TYP_PODILU>Autor hudby</TYP_PODILU>
+                <NASTROJ></NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+            <PODIL>
+                <PRIJMENI></PRIJMENI>
+                <JMENO></JMENO>
+                <INSTITUCE>Toby&amp;Hifi Heroes</INSTITUCE>
+                <TYP_PODILU>Hudební těleso</TYP_PODILU>
+                <NASTROJ></NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+        </SKLADBA>
+        <SKLADBA>
+            <UROVEN_SKLADBY>1.2</UROVEN_SKLADBY>
+            <NAZEV_SKLADBY>Samba</NAZEV_SKLADBY>
+            <ORIGNAZEV_SKLADBY></ORIGNAZEV_SKLADBY>
+            <JAZYK>český</JAZYK>
+            <NAZEV_PORADU>Cabriolet</NAZEV_PORADU>
+            <PODIL>
+                <PRIJMENI>Antonín</PRIJMENI>
+                <JMENO>Pavel</JMENO>
+                <INSTITUCE></INSTITUCE>
+                <TYP_PODILU>Autor hudby</TYP_PODILU>
+                <NASTROJ></NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+            <PODIL>
+                <PRIJMENI>Sebranová</PRIJMENI>
+                <JMENO>Tereza</JMENO>
+                <INSTITUCE></INSTITUCE>
+                <TYP_PODILU>Účinkující</TYP_PODILU>
+                <NASTROJ>Zpěv</NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+            <PODIL>
+                <PRIJMENI>Šulman</PRIJMENI>
+                <JMENO>Robert</JMENO>
+                <INSTITUCE></INSTITUCE>
+                <TYP_PODILU>Autor hudby</TYP_PODILU>
+                <NASTROJ></NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+            <PODIL>
+                <PRIJMENI></PRIJMENI>
+                <JMENO></JMENO>
+                <INSTITUCE>Toby&amp;Hifi Heroes</INSTITUCE>
+                <TYP_PODILU>Hudební těleso</TYP_PODILU>
+                <NASTROJ></NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+        </SKLADBA>
+        <SKLADBA>
+            <UROVEN_SKLADBY>1.3</UROVEN_SKLADBY>
+            <NAZEV_SKLADBY>Cabriolet(základ)</NAZEV_SKLADBY>
+            <ORIGNAZEV_SKLADBY></ORIGNAZEV_SKLADBY>
+            <JAZYK>český</JAZYK>
+            <NAZEV_PORADU>Cabriolet</NAZEV_PORADU>
+            <PODIL>
+                <PRIJMENI>Antonín</PRIJMENI>
+                <JMENO>Pavel</JMENO>
+                <INSTITUCE></INSTITUCE>
+                <TYP_PODILU>Autor hudby</TYP_PODILU>
+                <NASTROJ></NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+            <PODIL>
+                <PRIJMENI>Šulman</PRIJMENI>
+                <JMENO>Robert</JMENO>
+                <INSTITUCE></INSTITUCE>
+                <TYP_PODILU>Autor hudby</TYP_PODILU>
+                <NASTROJ></NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+            <PODIL>
+                <PRIJMENI></PRIJMENI>
+                <JMENO></JMENO>
+                <INSTITUCE>Toby&amp;Hifi Heroes</INSTITUCE>
+                <TYP_PODILU>Hudební těleso</TYP_PODILU>
+                <NASTROJ></NASTROJ>
+                <SPECIALIZACE></SPECIALIZACE>
+            </PODIL>
+        </SKLADBA>
+    </NOSIC>
+</COLLECTION>
