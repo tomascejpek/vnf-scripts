@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Album Id="11666224" Type="digitální záznam">
+    <Parts>
+        <Part Id="11666224" Order="1" Level="1" IdPartMajor="0" Type="album" News="no" D012="V-KOM-OS" IdPartType="10"
+              Made="1969-04-10" Length="15:17" Identification="CR.EH.2013.2">
+            <Titles>
+                <Title Id="13570031" Language="cs" Name="Jakub Lokaj: Divertimento in B"/>
+            </Titles>
+            <Anotations>
+                <Anotation Id="828" Language="cs">
+                    <![CDATA[Divertimento cítolibského skladatele Jakuba Lokaje (*1752) nahráli členové souboru Collegium musicum Pragense v roce 1969.<br>
+Karel Dlouhý - klarinet<br>
+Antonín Myslík - klarinet<br>
+Antonín Beránek - lesní roh<br>
+Emanuel Hrdina - lesní roh<br>
+František Herman - fagot<br>
+umělecký vedoucí: František Vajnar<br>]]>
+                </Anotation>
+            </Anotations>
+            <Categories>
+                <Category Id="21" Name="klasická hudba - komorní"/>
+            </Categories>
+            <Periods>
+                <Period Id="3" Name="18. století"/>
+            </Periods>
+            <Images>
+                <Image Id="3791175" Name="EH000006-CZ.jpg" Size="9002" CRC32="39D9AF2A" Width="250" Height="250"/>
+            </Images>
+            <Sound>
+                <Audio Id="3787865" Name="EH000006.wav" Size="161788034" CRC32="5EB778DB" Length="15:17"/>
+                <Isrc Id="31724" Country="CZ" Producer="D94" Year="69" Record="00116"/>
+            </Sound>
+            <Sale Id="6" Enabled="yes" From="" To="" MOC_MP3="39.00" MOC_FLAC="49.00"/>
+            <Copyrights>
+                <Copyright Id="6307336" Type="P" Year="1969">
+                    <Oganization Id="338767" Name="Český rozhlas" Identification="45245053"/>
+                </Copyright>
+                <Copyright Id="6307337" Type="C" Year="2014">
+                    <Oganization Id="5035926" Name="Radioservis a.s."/>
+                </Copyright>
+            </Copyrights>
+            <Priorities>
+                <Priorita Id="1404" Order="1">
+                    <Person Id="308005" First="Jakub" Last="Lokaj" Full="Jakub Lokaj"/>
+                </Priorita>
+                <Priorita Id="1405" Order="2">
+                    <Oganization Id="317" Name="Collegium musicum Pragense"/>
+                </Priorita>
+                <Priorita Id="1406" Order="3">
+                    <Person Id="309073" First="František" Last="Vajnar" Full="František Vajnar"/>
+                </Priorita>
+            </Priorities>
+            <Creators>
+                <Creator Id="16984645" Order="1">
+                    <Activity Id="2" Name="autor hudby"/>
+                    <Person Id="308005" First="Jakub" Last="Lokaj" Full="Jakub Lokaj"/>
+                    <Advocating Id="0" Table="none" Type="hromadné" Flag="osa" Alliance="osa"/>
+                </Creator>
+                <Creator Id="16984646" Order="2">
+                    <Activity Id="11" Name="člen souboru"/>
+                    <Person Id="353803" First="Karel" Last="Dlouhý" Full="Karel Dlouhý"/>
+                    <Advocating Id="5678" Table="prava" Type="individuální" Flag="radioservis" Alliance="intergram"
+                                Quotient="1.5" Agreement="bez" From="2014-01-01"/>
+                    <Instruments>
+                        <Instrument Id="243" Order="1" Name="klarinet"/>
+                    </Instruments>
+                    <Group Id="5431650" Name="Collegium musicum Pragense" Identification=""/>
+                </Creator>
+                <Creator Id="16984647" Order="3">
+                    <Activity Id="11" Name="člen souboru"/>
+                    <Person Id="353544" First="Antonín" Last="Myslík" Full="Antonín Myslík"/>
+                    <Advocating Id="5677" Table="prava" Type="individuální" Flag="radioservis" Alliance="intergram"
+                                Quotient="1.5" Agreement="bez" From="2014-01-01"/>
+                    <Instruments>
+                        <Instrument Id="243" Order="1" Name="klarinet"/>
+                    </Instruments>
+                    <Group Id="5431651" Name="Collegium musicum Pragense" Identification=""/>
+                </Creator>
+                <Creator Id="16984648" Order="4">
+                    <Activity Id="11" Name="člen souboru"/>
+                    <Person Id="383565" First="Antonín" Last="Beránek" Full="Antonín Beránek"/>
+                    <Advocating Id="5676" Table="prava" Type="individuální" Flag="radioservis" Alliance="intergram"
+                                Quotient="1.5" Agreement="bez" From="2014-01-01"/>
+                    <Instruments>
+                        <Instrument Id="286" Order="1" Name="lesní roh"/>
+                    </Instruments>
+                    <Group Id="5431652" Name="Collegium musicum Pragense" Identification=""/>
+                </Creator>
+                <Creator Id="16984649" Order="5">
+                    <Activity Id="11" Name="člen souboru"/>
+                    <Person Id="353426" First="Emanuel" Last="Hrdina" Full="Emanuel Hrdina"/>
+                    <Advocating Id="10003" Table="souhlasyeshop" Type="hromadné" Flag="český" Alliance="intergram"
+                                From="2013-12-09"/>
+                    <Instruments>
+                        <Instrument Id="286" Order="1" Name="lesní roh"/>
+                    </Instruments>
+                    <Group Id="5431653" Name="Collegium musicum Pragense" Identification=""/>
+                </Creator>
+                <Creator Id="16984650" Order="6">
+                    <Activity Id="11" Name="člen souboru"/>
+                    <Person Id="307038" First="František" Last="Herman" Full="František Herman"/>
+                    <Advocating Id="944" Table="souhlasyeshop" Type="hromadné" Flag="český" Alliance="intergram"
+                                From="2013-11-01"/>
+                    <Instruments>
+                        <Instrument Id="149" Order="1" Name="fagot"/>
+                    </Instruments>
+                    <Group Id="5431654" Name="Collegium musicum Pragense" Identification=""/>
+                </Creator>
+                <Creator Id="16984651" Order="7">
+                    <Activity Id="31" Name="orchestr-skupina"/>
+                    <Oganization Id="317" Name="Collegium musicum Pragense"/>
+                    <Advocating Id="5679" Table="prava" Type="individuální" Flag="radioservis" Alliance="intergram"
+                                Quotient="0" From="2014-01-01"/>
+                </Creator>
+                <Creator Id="16984652" Order="8">
+                    <Activity Id="45" Name="umělecký vedoucí"/>
+                    <Person Id="309073" First="František" Last="Vajnar" Full="František Vajnar"/>
+                    <Advocating Id="3581" Table="souhlasyeshop" Type="hromadné" Flag="český" Alliance="intergram"
+                                From="2013-11-01"/>
+                    <Group Id="5431655" Name="Collegium musicum Pragense" Identification=""/>
+                </Creator>
+                <Creator Id="16984653" Order="9">
+                    <Activity Id="47" Name="výrobce záznamu"/>
+                    <Oganization Id="302395" Name="ČSRo Praha"/>
+                </Creator>
+                <Creator Id="16984654" Order="10">
+                    <Activity Id="39" Name="režisér hudby"/>
+                    <Person Id="5016856" First="František" Last="Vrána" Full="František Vrána"/>
+                </Creator>
+                <Creator Id="16984655" Order="11">
+                    <Activity Id="50" Name="zvukový mistr"/>
+                    <Person Id="307228" First="Josef" Last="Kettner" Full="Josef Kettner"/>
+                </Creator>
+                <Creator Id="16984656" Order="12">
+                    <Activity Id="29" Name="natáčecí technik"/>
+                    <Person Id="853" First="Ivan" Last="Pommer" Full="Ivan Pommer"/>
+                </Creator>
+                <Creator Id="16984657" Order="13">
+                    <Activity Id="197" Name="dramaturg eshop"/>
+                    <Person Id="5558806" First="František" Last="Kolář" Full="František Kolář"/>
+                </Creator>
+                <Creator Id="16984658" Order="14">
+                    <Activity Id="64" Name="práva výrobce"/>
+                    <Oganization Id="338767" Name="Český rozhlas" Identification="45245053"/>
+                </Creator>
+                <Creator Id="16984659" Order="15">
+                    <Activity Id="64" Name="práva výrobce"/>
+                    <Oganization Id="5035926" Name="Radioservis a.s."/>
+                </Creator>
+            </Creators>
+        </Part>
+        <Part Id="11666225" Order="2" Level="2" IdPartMajor="11666224" Type="track" News="no" D012="V-KOM-OS"
+              IdPartType="10" Made="1969-04-10" Length="3:16" Identification="CR.EH.2013.2/CA01">
+            <Titles>
+                <Title Id="13570032" Language="cs" Name="Allegro, 1. část"/>
+            </Titles>
+            <Sound>
+                <Audio Id="3787866" Name="EH000007.wav" Size="34713644" CRC32="0C6E4948" Length="3:16"/>
+                <Isrc Id="31725" Country="CZ" Producer="D94" Year="69" Record="00117"/>
+            </Sound>
+            <Sale Id="7" Enabled="yes" From="" To="" MOC_MP3="15.00" MOC_FLAC="20.00"/>
+        </Part>
+        <Part Id="11666226" Order="3" Level="2" IdPartMajor="11666224" Type="track" News="no" D012="V-KOM-OS"
+              IdPartType="10" Made="1969-04-10" Length="4:16" Identification="CR.EH.2013.2/CA02">
+            <Titles>
+                <Title Id="13570033" Language="cs" Name="Menuetto, 2. část"/>
+            </Titles>
+            <Sound>
+                <Audio Id="3787867" Name="EH000008.wav" Size="45275180" CRC32="1451BD9A" Length="4:16"/>
+                <Isrc Id="31726" Country="CZ" Producer="D94" Year="69" Record="00118"/>
+            </Sound>
+            <Sale Id="8" Enabled="yes" From="" To="" MOC_MP3="15.00" MOC_FLAC="20.00"/>
+        </Part>
+        <Part Id="11666227" Order="4" Level="2" IdPartMajor="11666224" Type="track" News="no" D012="V-KOM-OS"
+              IdPartType="10" Made="1969-04-10" Length="4:06" Identification="CR.EH.2013.2/CA03">
+            <Titles>
+                <Title Id="13570034" Language="cs" Name="Adagio, 3. část"/>
+            </Titles>
+            <Sound>
+                <Audio Id="3787868" Name="EH000009.wav" Size="43536428" CRC32="1A5CA3D5" Length="4:06"/>
+                <Isrc Id="31727" Country="CZ" Producer="D94" Year="69" Record="00119"/>
+            </Sound>
+            <Sale Id="9" Enabled="yes" From="" To="" MOC_MP3="15.00" MOC_FLAC="20.00"/>
+        </Part>
+        <Part Id="11666228" Order="5" Level="2" IdPartMajor="11666224" Type="track" News="no" D012="V-KOM-OS"
+              IdPartType="10" Made="1969-04-10" Length="3:36" Identification="CR.EH.2013.2/CA04">
+            <Titles>
+                <Title Id="13570035" Language="cs" Name="Allegro. Adagio. Allegro, 4. část"/>
+            </Titles>
+            <Sound>
+                <Audio Id="3787869" Name="EH000010.wav" Size="38233100" CRC32="B27964EE" Length="3:36"/>
+                <Isrc Id="31728" Country="CZ" Producer="D94" Year="69" Record="00120"/>
+            </Sound>
+            <Sale Id="10" Enabled="yes" From="" To="" MOC_MP3="15.00" MOC_FLAC="20.00"/>
+        </Part>
+    </Parts>
+</Album>

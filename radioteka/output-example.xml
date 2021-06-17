@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+    <record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+        <leader>-----nim-a22-----2uj4500</leader>
+        <controlfield tag="001">11666224</controlfield>
+        <controlfield tag="007">s||||||||||||</controlfield>
+        <controlfield tag="008">------p20141969xr-||----------|||--und-d</controlfield>
+        <datafield tag="024" ind1=" " ind2=" ">
+            <subfield code="a">31724</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">SUP</subfield>
+            <subfield code="b">cze</subfield>
+            <subfield code="d">BOA001</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="a">CZ</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Lokaj, Jakub</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Jakub Lokaj: Divertimento in B</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="b">Radioservis a.s.</subfield>
+            <subfield code="c">2014</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">elektronický zdroj</subfield>
+        </datafield>
+        <datafield tag="306" ind1=" " ind2=" ">
+            <subfield code="a">001517</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2="0">
+            <subfield code="t">Allegro, 1. část</subfield>
+            <subfield code="g">(3:16)</subfield>
+            <subfield code="t">Menuetto, 2. část</subfield>
+            <subfield code="g">(4:16)</subfield>
+            <subfield code="t">Adagio, 3. část</subfield>
+            <subfield code="g">(4:06)</subfield>
+            <subfield code="t">Allegro. Adagio. Allegro, 4. část</subfield>
+            <subfield code="g">(3:36)</subfield>
+        </datafield>
+        <datafield tag="520" ind1="3" ind2=" ">
+            <subfield code="a">Divertimento cítolibského skladatele Jakuba Lokaje (*1752) nahráli členové souboru
+                Collegium musicum Pragense v roce 1969. Karel Dlouhý - klarinet Antonín Myslík - klarinet Antonín
+                Beránek - lesní roh Emanuel Hrdina - lesní roh František Herman - fagot umělecký vedoucí: František
+                Vajnar
+            </subfield>
+        </datafield>
+        <datafield tag="653" ind1=" " ind2=" ">
+            <subfield code="a">klasická hudba - komorní</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Lokaj, Jakub</subfield>
+            <subfield code="4">cmp</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Dlouhý, Karel</subfield>
+            <subfield code="4">mus</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Myslík, Antonín</subfield>
+            <subfield code="4">mus</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Beránek, Antonín</subfield>
+            <subfield code="4">mus</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Hrdina, Emanuel</subfield>
+            <subfield code="4">mus</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Herman, František</subfield>
+            <subfield code="4">mus</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Vajnar, František</subfield>
+            <subfield code="4">art</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Vrána, František</subfield>
+            <subfield code="4">drt</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Kettner, Josef</subfield>
+            <subfield code="4">prd</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Pommer, Ivan</subfield>
+            <subfield code="4">rce</subfield>
+        </datafield>
+        <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">Kolář, František</subfield>
+            <subfield code="4">oth</subfield>
+        </datafield>
+        <datafield tag="710" ind1=" " ind2=" ">
+            <subfield code="a">Collegium musicum Pragense</subfield>
+            <subfield code="4">prf</subfield>
+        </datafield>
+        <datafield tag="710" ind1=" " ind2=" ">
+            <subfield code="a">ČSRo Praha</subfield>
+            <subfield code="4">pro</subfield>
+        </datafield>
+        <datafield tag="710" ind1=" " ind2=" ">
+            <subfield code="a">Český rozhlas</subfield>
+            <subfield code="4">cph</subfield>
+        </datafield>
+        <datafield tag="710" ind1=" " ind2=" ">
+            <subfield code="a">Radioservis a.s.</subfield>
+            <subfield code="4">cph</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">http://www.radioteka.cz/detail/CRo_xml_11666224/</subfield>
+            <subfield code="y">Koupit na www.radioteka.cz</subfield>
+        </datafield>
+    </record>
+</collection>
